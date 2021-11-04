@@ -11,3 +11,10 @@ Mais do que qualquer outro tipo, é considerado um câncer da terceira idade, j�
 Alguns desses tumores podem crescer de forma rápida, espalhando-se para outros órgãos e podendo levar à morte. A maioria, porém, cresce de forma tão lenta (leva cerca de 15 anos para atingir 1 cm³ ) que não chega a dar sinais durante a vida e nem a ameaçar a saúde do homem.
 
 - Fonte: https://www.inca.gov.br/tipos-de-cancer/cancer-de-prostata
+
+
+O nosso desafio é criar um modelo pra predizer o `câncer de próstata` através de alguns atributos.
+
+E para esse desafio utilizaremos o classificador [multinomial Naïve Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html).
+
+A base de dados utilizada foi extraída do [Kaggle](https://www.kaggle.com/sajidsaifi/prostate-cancer).
