@@ -18,3 +18,5 @@ O nosso desafio é criar um modelo pra predizer o `câncer de próstata` atravé
 E para esse desafio utilizaremos o classificador [multinomial Naïve Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html).
 
 A base de dados utilizada foi extraída do [Kaggle](https://www.kaggle.com/sajidsaifi/prostate-cancer).
+
+Link do [notebook](https://colab.research.google.com/drive/19tSl9gbEyFrebNUHG5gJNJdtkKVIoNcV#scrollTo=B714C-6IWTs0).
